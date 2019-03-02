@@ -13,8 +13,10 @@
 
 # for test
 go to
+
     http://localhost:8005/api/values
 if you see this json
+
     [ "value1", "value2" ]
     
-success
+success. you are awesome!
