@@ -1,0 +1,14 @@
+C:\Users\P0999\Desktop\DockerExampleProject\DockerExampleProject\bin\Debug\netcoreapp2.1\DockerExampleProject.deps.json
+C:\Users\P0999\Desktop\DockerExampleProject\DockerExampleProject\bin\Debug\netcoreapp2.1\DockerExampleProject.runtimeconfig.json
+C:\Users\P0999\Desktop\DockerExampleProject\DockerExampleProject\bin\Debug\netcoreapp2.1\DockerExampleProject.runtimeconfig.dev.json
+C:\Users\P0999\Desktop\DockerExampleProject\DockerExampleProject\bin\Debug\netcoreapp2.1\DockerExampleProject.dll
+C:\Users\P0999\Desktop\DockerExampleProject\DockerExampleProject\bin\Debug\netcoreapp2.1\DockerExampleProject.pdb
+C:\Users\P0999\Desktop\DockerExampleProject\DockerExampleProject\obj\Debug\netcoreapp2.1\DockerExampleProject.csprojAssemblyReference.cache
+C:\Users\P0999\Desktop\DockerExampleProject\DockerExampleProject\obj\Debug\netcoreapp2.1\DockerExampleProject.csproj.CoreCompileInputs.cache
+C:\Users\P0999\Desktop\DockerExampleProject\DockerExampleProject\obj\Debug\netcoreapp2.1\DockerExampleProject.RazorAssemblyInfo.cache
+C:\Users\P0999\Desktop\DockerExampleProject\DockerExampleProject\obj\Debug\netcoreapp2.1\DockerExampleProject.RazorAssemblyInfo.cs
+C:\Users\P0999\Desktop\DockerExampleProject\DockerExampleProject\obj\Debug\netcoreapp2.1\DockerExampleProject.AssemblyInfoInputs.cache
+C:\Users\P0999\Desktop\DockerExampleProject\DockerExampleProject\obj\Debug\netcoreapp2.1\DockerExampleProject.AssemblyInfo.cs
+C:\Users\P0999\Desktop\DockerExampleProject\DockerExampleProject\obj\Debug\netcoreapp2.1\DockerExampleProject.RazorTargetAssemblyInfo.cache
+C:\Users\P0999\Desktop\DockerExampleProject\DockerExampleProject\obj\Debug\netcoreapp2.1\DockerExampleProject.dll
+C:\Users\P0999\Desktop\DockerExampleProject\DockerExampleProject\obj\Debug\netcoreapp2.1\DockerExampleProject.pdb
